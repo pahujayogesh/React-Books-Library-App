@@ -25,7 +25,7 @@ function Sider(props) {
       const loadPosts = async () => {
         setLoading(true);
         const response = await axios.get(
-          "http://openlibrary.org/subjects/subject.json"
+          "https://openlibrary.org/subjects/subject.json"
         );
         setPosts(response.data.works);
         setLoading(false);
