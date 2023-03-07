@@ -27,10 +27,9 @@ https://books-library-app-brown.vercel.app/
 - [License](#license)
 
 ## About The App
-React-Books-Library-App is an app that fetch api data from 
+React-Books-Library-App is an app that fetch api data openlibrary and result the data in sidebar and main page as tabulated format.
 - https://openlibrary.org/dev/docs/api/subjects
 - https://openlibrary.org/dev/docs/api/search
-and result the data in sidebar and main page as tabulated format.
 
 ## Features
 -Sidebar
@@ -47,9 +46,9 @@ I used `html`, `css`, `JavaScript ES6`,`React JS`,`Bootsrap`,`Material UI`,`Axio
 - `npm i react`
 - `npm i axios`
 - `npm i bootstrap
-- Add bootstrap links to public -> index.html to html
-- `<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">`
-- `<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>`
+- Add bootstrap links to public -> index.html to html (Note - bootsrap cdn link may sometime try using from [https://getbootstrap.com/docs/5.0/getting-started/introduction/] )
+- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 - `npm install @mui/material @emotion/react @emotion/styled`
 
 ## Approach
