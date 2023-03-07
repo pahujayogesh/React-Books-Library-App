@@ -24,7 +24,7 @@ React-Books-Library-App is an app that fetch api data openlibrary and result the
 -Sidebar
 -Pagination
 -Seach bar
--Table rows per change can set accordingly
+-Table rows can be change and set accordingly
 
 ## Technologies
 I used `html`, `css`, `JavaScript ES6`,`React JS`,`Bootsrap`,`Material UI`,`Axios`,`Vercel`,
