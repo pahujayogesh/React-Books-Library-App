@@ -55,7 +55,7 @@ I used `html`, `css`, `JavaScript ES6`,`React JS`,`Bootsrap`,`Material UI`,`Axio
 ## Approach
 I fetched the data using Axios and for styling bootsrap, material UI.
 ## Status
-React-Books-Library-App is still in completed and being on for cloud hosting.
+React-Books-Library-App is completed and being on for cloud hosting.
 
 
 ## License
