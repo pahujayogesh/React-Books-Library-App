@@ -5,17 +5,6 @@ React-Books-Library-App.
 ## Live link:
 https://books-library-app-brown.vercel.app/
 
-
-## Table of Content:
-.About The App
-.Technologies
-.Setup
-.Approach
-.Status
-.License
-
-
-
 ## Table of Content:
 
 - [About The App](#about-the-app)
@@ -59,4 +48,4 @@ React-Books-Library-App is completed and being on for cloud hosting.
 
 ## License
 
-MIT license @ [Yogesh Pahuja](https://github.com/pahujayogesh)
+license @ [Yogesh Pahuja](https://github.com/pahujayogesh)
