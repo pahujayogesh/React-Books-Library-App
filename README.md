@@ -2,7 +2,7 @@
 
 React-Books-Library-App.
 
-## Demo link:
+## Live link:
 https://books-library-app-brown.vercel.app/
 
 
